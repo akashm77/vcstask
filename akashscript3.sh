@@ -6,3 +6,4 @@ do
     echo "Number $i"
 done
 
+echo 'This change will be stashed'
